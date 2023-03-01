@@ -4,9 +4,13 @@ Installation
 To run this program, you need to install the following dependencies:
 
 Python 3.x
+
 OpenCV
+
 NumPy
+
 gTTS
+
 Pygame
 
 This is a Python program that uses the OpenCV library for real-time face detection and a text-to-speech engine to generate audio cues for navigation based on the position of the detected face. The program runs indefinitely until the user presses the 'q' key to quit the program.
